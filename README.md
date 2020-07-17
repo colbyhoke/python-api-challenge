@@ -42,4 +42,3 @@
     * Humidity less <= 70%.
     * Less than 10% cloud cover.
     * Drop any rows that don't contain all three conditions. You want to be sure the weather is ideal.
-<br>--------------------------------------------------------------------------------------------
