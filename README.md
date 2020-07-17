@@ -1,5 +1,10 @@
 # python-api-challenge
-# 2 parts:
+
+### Setup:
+    * Each folder should have a config.py file
+    * For WeatherPy, the config file should have a key for openweathermap API, set as: weather_api_key
+    * For VacationPy, the config file should have a key for google places API, set as: g_key
+## 2 parts:
 1. WeatherPy
     * This Jupyter Notebook generates random latitude and longitude points, finds the nearest city to those points, then gather weather dat on those cities.
     * Data includes: max temperatures, humidity, cloudiness, and wind speed.
