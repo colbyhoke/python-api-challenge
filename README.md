@@ -7,7 +7,8 @@
 1. VacationPy
     * This Jupyter Notebook takes the cleaned CSV of citied from WeatherPy, 
 <br>--------------------------------------------------------------------------------------------
-<br>**OBSERVATIONS:**
+
+## OBSERVATIONS
 
 ### WeatherPy
 1. Caveat: Observations are based on the data pulled in the jupyter notebook on 7/15/20
